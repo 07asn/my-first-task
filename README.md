@@ -9,11 +9,11 @@ The pages are:
   - The home page contains an overview of the school, the academic departments and the study programs available at the school.
 
 
--  **About Us Page**
+- **About Us Page**
   - The About Us page contains the school's mission, vision and a group photo of the students.
 
 
--  **Contact Us Page**
+- **Contact Us Page**
   - The Contact Us page contains the school’s address, means of communication with the school, and official working hours.
 -------------
 #### Key Features
