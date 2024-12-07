@@ -16,11 +16,13 @@ The pages are:
 -  **Contact Us Page**
   - The Contact Us page contains the school’s address, means of communication with the school, and official working hours.
 -------------
-####Key Features
+#### Key Features
 
 📄 **Wireframe:** Demonstrates the basic layout and structure for each page.
-🎨** Mockup**: Provides a visual representation of the design, including typography, color schemes, and branding.
-🖱️ **Prototype**: Offers interactivity to simulate the user experience and page navigation.
+
+🎨 **Mockup:** Provides a visual representation of the design, including typography, color schemes, and branding.
+
+🖱️ **Prototype:** Offers interactivity to simulate the user experience and page navigation.
 
 -------------
 >Access The Design
