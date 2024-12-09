@@ -45,7 +45,7 @@ The pages are:
 
 #### Design Previews
 
-![Preview 1](https://drive.google.com/uc?export=view&id=1Rr3GS5euzoc4M0pqMEvYS418hwVAXuXJ)  
-![Preview 2](https://drive.google.com/uc?export=view&id=1aSbGL_1IqJb5EZnAU25rR9Vn-4_3e9eH)  
-![Preview 3](https://drive.google.com/uc?export=view&id=12uS7I_CS-2YTr-jF4oq2Q0iWmalAuHzR)  
-![Preview 4](https://drive.google.com/uc?export=view&id=1kQ6TKNroxIxhNNhwrMQcY_Y8blo36FwM)  
+![Preview 1](https://drive.google.com/uc?export=view&id=12uS7I_CS-2YTr-jF4oq2Q0iWmalAuHzR)  
+![Preview 2](https://drive.google.com/uc?export=view&id=1kQ6TKNroxIxhNNhwrMQcY_Y8blo36FwM)  
+![Preview 3](https://drive.google.com/uc?export=view&id=1Rr3GS5euzoc4M0pqMEvYS418hwVAXuXJ)  
+![Preview 4](https://drive.google.com/uc?export=view&id=1aSbGL_1IqJb5EZnAU25rR9Vn-4_3e9eH)  
